@@ -32,6 +32,8 @@
 🗄️ Database Administration Projects: Coming soon!
 💬 User Support Projects: Coming soon!
 📱 Mobile Computing Projects: Coming soon!
+🧑‍💻 Ethical Hacking Projects: Coming soon!
+
 
 ## Contact
 
